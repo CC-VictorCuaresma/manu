@@ -1,0 +1,8 @@
+{
+  "name": "manu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5b4e07c3"
+}
